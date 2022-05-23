@@ -1,0 +1,27 @@
+.bg {
+  background-image: url(../images/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: auto;
+  background-origin: content-box;
+  height: 100vh;
+}
+
+.a {
+  color: white;
+  font-family: 'Didact Gothic';
+  font-size: 30px;
+  text-align: center;
+}
+
+.h {
+  margin-left: 50%;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
