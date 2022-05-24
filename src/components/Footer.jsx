@@ -22,31 +22,7 @@ function Footer() {
           </section>
         </div>
 
-        <div className='container-fluid'>
-          <h4>Contact Us</h4>
-          <div className='row row-12'>
-            <div className='col col-md-4 p-3'>
-              <div> Hardik Agarwal</div>
-              <a href='mailto:hardikag17@gmil.com' className='text-black'>
-                hardikag17@gmil.com
-              </a>
-            </div>
-            <div className='col-md-4 p-3'>
-              <div> Suryashankar Das</div>
-              <a
-                href='mailto:suryashankardas.2002@gmil.com'
-                className='text-black'>
-                suryashankardas.2002@gmil.com
-              </a>
-            </div>
-            <div className='col-md-4 p-3'>
-              <div> Aman Nagpal</div>
-              <a href='mailto:amannagpal2468@gmail.com' className='text-black'>
-                amannagpal2468@gmail.com
-              </a>
-            </div>
-          </div>
-        </div>
+       
         <section class='mb-4'>
           <a
             class='btn btn-outline-dark btn-floating m-1'
